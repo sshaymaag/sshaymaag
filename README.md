@@ -1,6 +1,6 @@
 <img height="400px" width="100%" src="gif2.gif">
 <h1 align="center">Hi 👋, I'm Chaymae from Morocco</h1>
-<h3 align="center">A Full-stack developer</h3>
+<h3 align="center">A Full-Stack developer</h3>
 
 <hr>
 
